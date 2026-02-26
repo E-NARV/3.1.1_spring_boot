@@ -11,7 +11,7 @@
 	<groupId>ru.enarv</groupId>
 	<artifactId>spring-boot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>PP_3_3_1_spring_boot</name>
+	<name>PP_3_1_1_spring_boot</name>
 	<description>Spring Boot project from CRUD</description>
 	<url/>
 	<licenses>
